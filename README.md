@@ -5,3 +5,5 @@ A webpage to close users window
 CTRL + CLICK the link below (CMD + CLICK on Mac)
 
 https://close-my-window-please.netlify.app/
+
+Note: Scripts may close only the windows that were opened by them 😉
